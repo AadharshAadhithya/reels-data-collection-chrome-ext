@@ -3,8 +3,8 @@
     "host_permissions": [
       "<all_urls>"
     ],
-    "name": "Hello Extensions",
-    "description": "Base Level Extension",
+    "name": "Reels/Shorts Data Collector",
+    "description": "Collects reels or shorts and likes on them. Thanks for installing. ",
     "version": "1.0",
     "action": {
       "default_popup": "hello.html"
